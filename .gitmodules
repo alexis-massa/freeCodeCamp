@@ -1,3 +1,6 @@
 [submodule "QualityAssurance"]
 	path = QualityAssurance
 	url = https://github.com/alexis-massa/QualityAssurance
+[submodule "RelationalDatabase"]
+	path = RelationalDatabase
+	url = ./RelationalDatabase/
