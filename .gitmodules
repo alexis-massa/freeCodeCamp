@@ -3,4 +3,4 @@
 	url = https://github.com/alexis-massa/QualityAssurance
 [submodule "RelationalDatabase"]
 	path = RelationalDatabase
-	url = ./RelationalDatabase/
+	url = https://github.com/alexis-massa/fcc_RelationalDatabase
