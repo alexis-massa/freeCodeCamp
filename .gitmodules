@@ -4,3 +4,6 @@
 [submodule "RelationalDatabase"]
 	path = RelationalDatabase
 	url = https://github.com/alexis-massa/fcc_RelationalDatabase
+[submodule "InformationSecurity"]
+	path = InformationSecurity
+	url = https://github.com/alexis-massa/fcc_InformationSecurity.git
