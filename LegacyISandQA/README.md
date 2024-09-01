@@ -11,6 +11,6 @@
 [Course : Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/)
 [Course : Information Security](https://www.freecodecamp.org/learn/information-security/)
 
-![Certification](https://github.com/alexis-massa/freeCodeCamp/LegacyISandQA/fcc-Legacy-IS-and-QA_AlexisMassa.png?raw=true)
+![Certification](https://github.com/alexis-massa/freeCodeCamp/blob/main/LegacyISandQA/fcc-Legacy-IS-and-QA_AlexisMassa.png)
 
 [See on freeCodeCamp.com](https://www.freecodecamp.org/certification/alexis-massa/quality-assurance-v7)
