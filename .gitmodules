@@ -7,3 +7,6 @@
 [submodule "InformationSecurity"]
 	path = InformationSecurity
 	url = https://github.com/alexis-massa/fcc_InformationSecurity.git
+[submodule "ResponsiveWebDesign"]
+	path = ResponsiveWebDesign
+	url = https://github.com/alexis-massa/fcc_ResponsiveWebDesign.git
