@@ -1,9 +1,9 @@
 [submodule "QualityAssurance"]
 	path = QualityAssurance
-	url = https://github.com/alexis-massa/QualityAssurance
+	url = https://github.com/alexis-massa/fcc_QualityAssurance.git
 [submodule "RelationalDatabase"]
 	path = RelationalDatabase
-	url = https://github.com/alexis-massa/fcc_RelationalDatabase
+	url = https://github.com/alexis-massa/fcc_RelationalDatabase.git
 [submodule "InformationSecurity"]
 	path = InformationSecurity
 	url = https://github.com/alexis-massa/fcc_InformationSecurity.git
