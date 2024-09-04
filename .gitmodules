@@ -10,3 +10,6 @@
 [submodule "ResponsiveWebDesign"]
 	path = ResponsiveWebDesign
 	url = https://github.com/alexis-massa/fcc_ResponsiveWebDesign.git
+[submodule "FrontEndDevelopmentLibraries"]
+	path = FrontEndDevelopmentLibraries
+	url = https://github.com/alexis-massa/fcc_FrontEndDevelopmentLibraries.git
