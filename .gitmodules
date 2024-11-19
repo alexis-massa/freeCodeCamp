@@ -13,3 +13,6 @@
 [submodule "FrontEndDevelopmentLibraries"]
 	path = FrontEndDevelopmentLibraries
 	url = https://github.com/alexis-massa/fcc_FrontEndDevelopmentLibraries.git
+[submodule "BackEndDevelopmentAndAPIs"]
+	path = BackEndDevelopmentAndAPIs
+	url = https://github.com/alexis-massa/fcc_BackEndDevelopmentAndAPIs
