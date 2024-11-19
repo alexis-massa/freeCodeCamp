@@ -1,18 +1,24 @@
 [submodule "QualityAssurance"]
 	path = QualityAssurance
 	url = https://github.com/alexis-massa/fcc_QualityAssurance.git
+	branch = main
 [submodule "RelationalDatabase"]
 	path = RelationalDatabase
 	url = https://github.com/alexis-massa/fcc_RelationalDatabase.git
+	branch = main
 [submodule "InformationSecurity"]
 	path = InformationSecurity
 	url = https://github.com/alexis-massa/fcc_InformationSecurity.git
+	branch = main
 [submodule "ResponsiveWebDesign"]
 	path = ResponsiveWebDesign
 	url = https://github.com/alexis-massa/fcc_ResponsiveWebDesign.git
+	branch = main
 [submodule "FrontEndDevelopmentLibraries"]
 	path = FrontEndDevelopmentLibraries
 	url = https://github.com/alexis-massa/fcc_FrontEndDevelopmentLibraries.git
+	branch = main
 [submodule "BackEndDevelopmentAndAPIs"]
 	path = BackEndDevelopmentAndAPIs
 	url = https://github.com/alexis-massa/fcc_BackEndDevelopmentAndAPIs.git
+	branch = main
