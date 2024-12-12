@@ -22,3 +22,11 @@
 	path = BackEndDevelopmentAndAPIs
 	url = https://github.com/alexis-massa/fcc_BackEndDevelopmentAndAPIs.git
 	branch = main
+[submodule "DataVisualization"]
+	path = DataVisualization
+	url = https://github.com/alexis-massa/fcc_DataVisualization.git
+	branch = main
+[submodule "LegacyJavascriptAlgorithmsDataStructures"]
+	path = LegacyJavascriptAlgorithmsDataStructures
+	url = https://github.com/alexis-massa/fcc_LegacyJavascriptAlgorithmsDataStructures.git
+	branch = main
