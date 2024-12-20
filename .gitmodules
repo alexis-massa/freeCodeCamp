@@ -30,3 +30,6 @@
 	path = LegacyJavascriptAlgorithmsDataStructures
 	url = https://github.com/alexis-massa/fcc_LegacyJavascriptAlgorithmsDataStructures.git
 	branch = main
+[submodule "ScientificComputing"]
+	path = ScientificComputing
+	url = ./ScientificComputing/
