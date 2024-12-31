@@ -32,4 +32,5 @@
 	branch = main
 [submodule "ScientificComputing"]
 	path = ScientificComputing
-	url = ./ScientificComputing/
+	url = https://github.com/alexis-massa/fcc_ScientificComputing.git
+	branch = main
