@@ -34,3 +34,7 @@
 	path = ScientificComputing
 	url = https://github.com/alexis-massa/fcc_ScientificComputing.git
 	branch = main
+[submodule "RosettaCode"]
+	path = RosettaCode
+	url = https://github.com/alexis-massa/fcc_RosettaCode.git
+	branch = main
