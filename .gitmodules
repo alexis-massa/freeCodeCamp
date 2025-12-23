@@ -38,3 +38,7 @@
 	path = RosettaCode
 	url = https://github.com/alexis-massa/fcc_RosettaCode.git
 	branch = main
+[submodule "DailyChallenge"]
+        path = DailyChallenge
+        url = https://github.com/alexis-massa/fcc_DailyChallenge.git
+        branch = main
